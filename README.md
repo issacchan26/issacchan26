@@ -4,8 +4,12 @@ Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D dat
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sik-hin-chan-b70b74195/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacchan26@gmail.com)
 
 ## Financial Analytics
+- [Anti Money Laundering Detection with Graph Attention Network](https://github.com/issacchan26/AntiMoneyLaunderingDetectionWithGNN)
 - [House loan repayment prediction with XGBoost and MLP](https://github.com/issacchan26/HouseLoanPrediction)
 - [Credit risk prediction with CatBoostClassifier](https://github.com/issacchan26/CreditRiskPrediction)
+
+## Graph Neural Network
+- [Anti Money Laundering Detection with Graph Attention Network](https://github.com/issacchan26/AntiMoneyLaunderingDetectionWithGNN)
 
 ## Time Series Forecasting
 - [Power consumption pattern recognition](https://github.com/issacchan26/TimeSeriesPatternForecasting)
