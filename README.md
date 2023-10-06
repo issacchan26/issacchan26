@@ -1,6 +1,9 @@
 ### Hi I'm Issac 👋
 Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D data, Graph, NLP, multidimensional data processing. I am passionate about data science and machine learning, like to explore new deep learning models.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sik-hin-chan-b70b74195/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacchan26@gmail.com)
+
 ## Financial Analytics
 - [House loan repayment prediction with XGBoost and MLP](https://github.com/issacchan26/HouseLoanPrediction)
 - [Credit risk prediction with CatBoostClassifier](https://github.com/issacchan26/CreditRiskPrediction)
