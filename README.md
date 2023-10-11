@@ -1,7 +1,10 @@
 ### Hi I'm Issac 👋
-Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D data, Graph, NLP, multidimensional data processing. I am passionate about data science and machine learning, like to explore new deep learning models.
+Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D data, Graph, NLP, multidimensional data processing. I am passionate about data science and machine learning, like to explore new deep learning models, currently looking for opportunities in Toronto.  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sik-hin-chan-b70b74195/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacchan26@gmail.com)
+
+## Natural Language Processing
+- [OpenTable Reviews Classification with BERT and Transfer Learning](https://github.com/issacchan26/CustomerReviewClassificationWithBERT)
 
 ## Financial Analytics
 - [Anti Money Laundering Detection with Graph Attention Network](https://github.com/issacchan26/AntiMoneyLaunderingDetectionWithGNN)
