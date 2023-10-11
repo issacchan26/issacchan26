@@ -16,6 +16,9 @@ Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D dat
 - [Power consumption pattern recognition](https://github.com/issacchan26/TimeSeriesPatternForecasting)
   - [Data analysis and exploration](https://github.com/issacchan26/TimeSeriesPatternForecasting/blob/main/data_analysis_visualization.ipynb)
 
+## Data Collection
+- [OpenTable Reviews Collection with Web Scraping](https://github.com/issacchan26/OpenTableReviewsScraping)
+
 ## 3D Deep Learning Tools 
 - [Mesh processing algorithms for mesh simplification, rigid transform and format transform](https://github.com/issacchan26/mesh-processing)
 - [Point cloud annotation with PCD data for machine learning](https://github.com/issacchan26/point-cloud-annotation)
