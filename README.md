@@ -7,6 +7,7 @@ Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D dat
 - [3D Human Part Segmentation with Point Transformer](https://github.com/issacchan26/HumanPartSegmentation)
 
 ## Natural Language Processing
+- [AWS Lambda RAG serverless function with Pinecone vector database](https://github.com/issacchan26/TalkToPDF)
 - [OpenTable Reviews Classification with BERT and Transfer Learning](https://github.com/issacchan26/CustomerReviewClassificationWithBERT)
   - [Data collection and explanation](https://github.com/issacchan26/CustomerReviewClassificationWithBERT/blob/main/review_classification.ipynb)
 
