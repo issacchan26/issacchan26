@@ -4,6 +4,8 @@ Machine Learning engineer with 3 year experience in Computer Vision of 2D/3D dat
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sik-hin-chan-b70b74195/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacchan26@gmail.com)
 
 ## Computer Vision
+- [Semantic Segmentation with Hugging Face SegFormer, PyTorch and Segments.ai](https://github.com/issacchan26/SegFormerSemanticSegmentation)
+  - [Use Case: Cartridge Case Images Segmentation](https://github.com/issacchan26/CartridgeCaseSegmentation)
 - [3D Human Part Segmentation with Point Transformer](https://github.com/issacchan26/HumanPartSegmentation)
 
 ## Natural Language Processing
